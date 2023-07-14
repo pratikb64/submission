@@ -10,7 +10,7 @@ const MiddleSection = () => {
           understand your service (or just to hype ‘em up).
         </div>
       </div>
-      <div className="max-w-[95%] lg:max-w-4xl mx-auto -mb-[25%]">
+      <div className="max-w-[95%] lg:max-w-4xl mx-auto -mb-[25%] xl:-mb-[288px]">
         <iframe
           className="w-full aspect-video"
           src="https://www.youtube-nocookie.com/embed/Y7cpCDlRfV0?controls=0"
